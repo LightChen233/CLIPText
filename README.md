@@ -2,7 +2,7 @@
  * @Author: Qiguang Chen
  * @LastEditors: Qiguang Chen
  * @Date: 2023-05-09 10:38:42
- * @LastEditTime: 2023-05-11 17:26:31
+ * @LastEditTime: 2023-08-17 20:27:09
  * @Description: 
  * 
 -->
@@ -24,13 +24,20 @@ This repository contains the PyTorch implementation and the data of the paper: *
 This code has been written using PyTorch >= 2.0. If you find this code useful for your research, please consider citing the following paper:
 
 <pre>
-@misc{xxx,
-      title={CLIPText: A New Paradigm for  Zero-shot Text Classification}, 
-      author={Libo Qin and Weiyun Wang and Qiguang Chen and Wanxiang Che},
-      year={2023},
-      eprint={xxx},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{qin-etal-2023-cliptext,
+    title = "{CLIPT}ext: A New Paradigm for Zero-shot Text Classification",
+    author = "Qin, Libo  and
+      Wang, Weiyun  and
+      Chen, Qiguang  and
+      Che, Wanxiang",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.69",
+    doi = "10.18653/v1/2023.findings-acl.69",
+    pages = "1077--1088",
 }
 </pre>
 
