@@ -1,0 +1,6 @@
+HUM	What Scottish poet penned To a Mouse and To a Louse ?
+HUM	What is the name of the inventor of silly putty ?
+LOC	What ocean surrounds the Madeira Islands ?
+HUM	What famous communist leader died in Mexico City ?
+ENTY	What was John Steinbeck s travelling companion Charley ?
+LOC	What are the capital cities of the two large countries that occupy the Iberian peninsula in Europe ?

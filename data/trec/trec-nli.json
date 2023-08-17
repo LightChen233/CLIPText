@@ -1,0 +1,21 @@
+["NUM", "HUM", "LOC", "ABBR", "ENTY", "DESC"]
+{
+ "NUM": [
+  "this question is about number"
+ ],
+ "HUM": [
+  "this question is about human"
+ ],
+ "LOC": [
+  "this question is about location"
+ ],
+ "ABBR": [
+  "this question is about abbreviation"
+ ],
+ "ENTY": [
+  "this question is about entity"
+ ],
+ "DESC": [
+  "this question is about description"
+ ]
+}

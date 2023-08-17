@@ -1,0 +1,50 @@
+DESC	How did serfdom develop in and then leave Russia ?
+ENTY	What films featured the character Popeye Doyle ?
+DESC	How can I find a list of celebrities real names ?
+ENTY	What fowl grabs the spotlight after the Chinese Year of the Monkey ?
+ABBR	What is the full form of .com ?
+HUM	What contemptible scoundrel stole the cork from my lunch ?
+HUM	What team did baseball s St. Louis Browns become ?
+HUM	What is the oldest profession ?
+DESC	What are liver enzymes ?
+HUM	Name the scar-faced bounty hunter of The Old West .
+NUM	When was Ozzy Osbourne born ?
+DESC	Why do heavier objects travel downhill faster ?
+HUM	Who was The Pride of the Yankees ?
+HUM	Who killed Gandhi ?
+ENTY	What is considered the costliest disaster the insurance industry has ever faced ?
+LOC	What sprawling U.S. state boasts the most airports ?
+DESC	What did the only repealed amendment to the U.S. Constitution deal with ?
+NUM	How many Jews were executed in concentration camps during WWII ?
+DESC	What is Nine Inch Nails ?
+DESC	What is an annotated bibliography ?
+NUM	What is the date of Boxing Day ?
+ENTY	What articles of clothing are tokens in Monopoly ?
+HUM	Name 11 famous martyrs .
+DESC	What s the Olympic motto ?
+DESC	What is the origin of the name Scarlett ?
+ENTY	What s the second-most-used vowel in English ?
+HUM	Who was the inventor of silly putty ?
+LOC	What is the highest waterfall in the United States ?
+ENTY	Name a golf course in Myrtle Beach .
+LOC	Which two states enclose Chesapeake Bay ?
+ABBR	What does the abbreviation AIDS stand for ?
+ENTY	What does a spermologer collect ?
+NUM	How many points make up a perfect fivepin bowling score ?
+HUM	Which company that manufactures video-game hardware sells the super system ?
+NUM	How many Community Chest cards are there in Monopoly ?
+DESC	What do Mormons believe ?
+NUM	When did the neanderthal man live ?
+ENTY	In what religion was Isis the nature goddess ?
+LOC	Where do the adventures of The Swiss Family Robinson take place ?
+ENTY	What relative of the racoon is sometimes known as the cat-bear ?
+DESC	How can I register my website in Yahoo for free ?
+ENTY	What was cash-conscious Colonel Edwin L. Drake the first to drill ?
+NUM	How many people in the world speak French ?
+NUM	How many inches over six feet is the Venus de Milo ?
+DESC	How do they find or choose witnesses to an execution ?
+HUM	What 1920s cowboy star rode Tony the Wonder Horse ?
+ENTY	What cocktail inspired John Doxat to write the book Stirred-Not Shaken ?
+HUM	What ISPs exist in the Caribbean ?
+DESC	How do you ask a total stranger out on a date ?
+ENTY	What weapon is the mythological character Apollo most proficient with ?
